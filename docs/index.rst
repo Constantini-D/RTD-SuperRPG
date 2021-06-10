@@ -6,9 +6,36 @@
 Welcome to Documentação-POO-Douglas's documentation!
 ====================================================
 
+**Hello world**
+*Hello World*
+``Hello World``
+
+
+Lista
+======
+* Teste
+* Teste
+
+Box de aviso
+-------------
+
+.. danger::
+   Isto pode ser perigoso!
+
+.. caution::
+   Cuidado!!
+
+.. tip::
+   Apenas uma ajuda
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :hidden:
+   :caption: Options:
+
+
+   Options/logica
+   Options/codigo
 
 
 
