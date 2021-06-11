@@ -9,6 +9,7 @@ Welcome to Documentação-POO-Douglas's documentation!
 **Hello world**
 *Novo assunto*
 ``Hello World``
+using branch
 
 
 
@@ -38,11 +39,3 @@ Box de aviso
    Options/logica
    Options/codigo
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
