@@ -12,7 +12,6 @@ Auto Generated Documentation
 
 .. autoclass:: Mago
     :members:
-    :exclude-members: magia
 
 
 

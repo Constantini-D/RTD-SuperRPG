@@ -1,8 +1,5 @@
 from random import randint
-"""
-oii
 
-"""
 
 def gritar(funcao):
     """
