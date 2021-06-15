@@ -13,8 +13,6 @@ teste
 .. autoclass:: Claymor
     :members: __init__
 
-.. autoclass:: Mago
-    :members:
 
 
 
