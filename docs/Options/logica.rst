@@ -1,9 +1,10 @@
 Superlinks e imagens
-+++++++
++++++++++++++++++++++++
 
 
 .. image:: /images/logica.jpg
 
+.. autoclass:: /Projeto/superRPG/Npc
 
 
 Criando superlinks
