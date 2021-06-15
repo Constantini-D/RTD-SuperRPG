@@ -12,7 +12,7 @@
 #
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../Projeto/superRPG.py'))
+sys.path.insert(0, os.path.abspath('../Projeto/'))
 
 
 # -- Project information -----------------------------------------------------
