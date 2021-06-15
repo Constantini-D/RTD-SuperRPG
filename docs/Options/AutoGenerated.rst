@@ -1,8 +1,7 @@
 Auto Generated Documentation
 =============================
 
-teste
--------
+
 .. automodule:: superRPG
 
 .. autoclass:: Npc
