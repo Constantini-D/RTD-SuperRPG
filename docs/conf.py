@@ -13,7 +13,11 @@
 import os
 import sys
 sys.path.insert(0, os.path.abspath('../Projeto/'))
-
+on_rtd = os.environ.get('READTHEDOCS') == 'True'
+if on_rtd:
+    html_theme = 'default'
+else:
+    html_theme = 'nature'
 
 # -- Project information -----------------------------------------------------
 
